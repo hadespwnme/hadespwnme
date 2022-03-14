@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Django**
 
 <h3 align="left">Connect with me:</h3>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <p align="left">
 <a href="https://facebook.com/teolbohades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teolbohades" height="30" width="40" /></a>
 <a href="https://instagram.com/yinghades_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yinghades_" height="30" width="40" /></a>
