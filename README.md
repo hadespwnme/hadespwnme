@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+<img align="center" style="border-radius: 50%" src="https://encrypted-tbn0.gs>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHei>
+<h3 align="center"><i>I am just pentester not hacker</i></h3>
+<h3>About Me :<img align="center" src = "https://media0.giphy.com/media/KDDpc>
 
-<!--
-**yingcrackerhades/yingcrackerhades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Drac Os](www.dracos-linux.org)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Django**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/mai>
+<p align="left">
+<a href="https://facebook.com/teolbohades" target="blank"><img align="center">
+<a href="https://instagram.com/yinghades_" target="blank"><img align="center">
+</p>
+
+<h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/gip>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel>
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IO>
+
+![Metrics](https://metrics.lecoq.io/yingcrackerhades?template=terminal&base.h>
