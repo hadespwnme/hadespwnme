@@ -1,6 +1,5 @@
 <p align="center">
-<img align="center" style="border-radius: 50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zuZpwGc1IvOVAJ26Esi3f8zZ541NCs_IhA&usqp=CAU"></img>
-
+<img align="center" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kaito_Kid_signature.svg/1200px-Kaito_Kid_signature.svg.png"></img>
 <h2>Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ```python
