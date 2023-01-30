@@ -1,5 +1,3 @@
-<p align="center">
-<img align="center" width="150" src="https://raw.githubusercontent.com/yingcrackerhades/yingcrackerhades/main/hadess.png"></img>
 <h2>Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ```python
