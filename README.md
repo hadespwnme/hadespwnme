@@ -1,6 +1,7 @@
 <div align="center">
 <h2>Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+</div>
+    
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -8,11 +9,11 @@
 class RedTeam:
 
     def __init__(self):
-        self.name = 'Hades Ying'
-        self.hobby = 'Doing Pentesting'
+        self.name = 'Hades'
+        self.hobby = 'Playing CTF(Rank 2 Indonesian on HackTheBox)'
         self.city = 'Jakarta-Indonesia'
         self.tool = ['VSCode', 'Git', 'Github', 'ArchLinux']
-        self.skill = ['Linux','Python', 'Html', 'Css', 'Bash']
+        self.skill = ['Python', 'Html', 'Css', 'Bash','JavaScript', 'PHP']
 
     def hello(self):
         print('Hy, welcome to my github, i hope you interesting to my project')
@@ -21,6 +22,8 @@ class RedTeam:
 me = RedTeam()
 me.hello()
 ```
+
+<div align="center">
     
 [![Instagram Badge](https://img.shields.io/badge/-yinghades__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yinghades_/)](https://instagram.com/yinghades_) [![Gmail Badge](https://img.shields.io/badge/-hades.yingcracker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hades.yingcracker@gmail.com)](mailto:hades.yingcracker@gmail.com)
 
