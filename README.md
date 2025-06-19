@@ -25,7 +25,6 @@ me.hello()
 
 <div align="center">
 
-[![HackTheBox](https://www.hackthebox.com/badge/image/1548740)](https://app.hackthebox.com/profile/1548740)
 
 [![Instagram Badge](https://img.shields.io/badge/-yinghades__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yinghades_/)](https://instagram.com/yinghades_)
 [![Gmail Badge](https://img.shields.io/badge/-hades.yingcracker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hades.yingcracker@gmail.com)](mailto:hades.yingcracker@gmail.com)
