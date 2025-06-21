@@ -10,10 +10,10 @@ class RedTeam:
 
     def __init__(self):
         self.name = 'Hades'
-        self.hobby = 'Playing CTF(Rank 2 Indonesian on HackTheBox)'
+        self.hobby = 'Playing CTF, specifically HackTheBox.'
         self.city = 'Jakarta-Indonesia'
         self.tool = ['VSCode', 'Git', 'Github', 'ArchLinux']
-        self.skill = ['Python', 'Html', 'Css', 'Bash','JavaScript', 'PHP']
+        self.skill = ['Python', 'Html', 'Css', 'Bash','JavaScript', 'PHP', 'Ruby']
 
     def hello(self):
         print('Hy, welcome to my github, i hope you interesting to my project')
