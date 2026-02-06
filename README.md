@@ -13,7 +13,8 @@ class RedTeam:
         self.hobby = 'Playing CTF, specifically HackTheBox.'
         self.city = 'Jakarta-Indonesia'
         self.tool = ['VSCode', 'Git', 'Github', 'ArchLinux']
-        self.skill = ['Python', 'Html', 'Css', 'Bash','JavaScript', 'PHP', 'Ruby']
+        self.skill = ['Reverse Engineering', 'Binary Exploitation', 'Web Exploitation']
+        self.lang = ['Python', 'Java', 'Java Script', 'Bash', 'C', 'C++']
 
     def hello(self):
         print('Hy, welcome to my github, i hope you interesting to my project')
